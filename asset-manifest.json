@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Solomon333/solomon333.github.io.git/static/css/main.bcb27d68.css",
+    "main.js": "/Solomon333/solomon333.github.io.git/static/js/main.81ed1acc.js",
+    "static/js/787.e4ae0a49.chunk.js": "/Solomon333/solomon333.github.io.git/static/js/787.e4ae0a49.chunk.js",
+    "index.html": "/Solomon333/solomon333.github.io.git/index.html",
+    "main.bcb27d68.css.map": "/Solomon333/solomon333.github.io.git/static/css/main.bcb27d68.css.map",
+    "main.81ed1acc.js.map": "/Solomon333/solomon333.github.io.git/static/js/main.81ed1acc.js.map",
+    "787.e4ae0a49.chunk.js.map": "/Solomon333/solomon333.github.io.git/static/js/787.e4ae0a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb27d68.css",
+    "static/js/main.81ed1acc.js"
+  ]
+}
