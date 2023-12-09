@@ -1,1 +1,1 @@
-# solomon333.git
+# solomon333
